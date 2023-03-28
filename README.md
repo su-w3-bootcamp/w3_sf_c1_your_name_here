@@ -7,6 +7,6 @@ Using the tools you've downloaded including git and VS Code, add your name to th
 ## NAMES
 
 - Chris Boydstun - Instructor
-- YOUR NAME HERE
+- Pablo M. Iglesias - Student
 - YOUR NAME HERE
 - YOUR NAME HERE
