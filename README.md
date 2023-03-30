@@ -11,4 +11,4 @@ Using the tools you've downloaded including git and VS Code, add your name to th
 - Peter Parker - FAKE Student
 - Mervin Gaitho - Student
 - Gulzaib Ahmad - Student
-- YOUR NAME HERE
+- Lakota Jaussen - Student
