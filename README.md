@@ -10,4 +10,5 @@ Using the tools you've downloaded including git and VS Code, add your name to th
 - Pablo M. Iglesias - Student
 - Peter Parker - FAKE Student
 - Mervin Gaitho - Student
+- Javier Lavin - Student
 - YOUR NAME HERE
