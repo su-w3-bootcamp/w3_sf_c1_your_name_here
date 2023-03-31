@@ -8,5 +8,9 @@ Using the tools you've downloaded including git and VS Code, add your name to th
 
 - Chris Boydstun - Instructor
 - Pablo M. Iglesias - Student
-- Robyn A. Johnson - Student
-- YOUR NAME HERE
+- Peter Parker - FAKE Student
+- Mervin Gaitho - Student
+- Gulzaib Ahmad - Student
+- Lakota Jaussen - Student
+- Javier Lavin - Student
+- Robyn Johnson - Student
